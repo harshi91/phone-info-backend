@@ -2,3 +2,5 @@ Flask
 gunicorn
 requests
 pillow
+geopy==2.4.1
+
